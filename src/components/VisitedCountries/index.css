@@ -1,0 +1,32 @@
+.country-list-item {
+  width: 290px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.thumbnail-image {
+  width: 100%;
+  height: 180px;
+}
+.name-button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1f1f2f;
+}
+.country-name {
+  font-family: Roboto;
+  color: #ffffff;
+  margin-left: 8px;
+  font-size: 17px;
+}
+.remove-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+  color: #ffffff;
+  width: 90px;
+  outline: none;
+  margin-right: 8px;
+  padding: 7px;
+  border-radius: 4px;
+}
